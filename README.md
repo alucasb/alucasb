@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! sou André Lucas</h1>
+<h1 align="center">Olá, mundo! Sou André Lucas</h1>
 <h3 align="center">Formado em ciências da natureza, estudante de programação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alucasb&label=Profile%20views&color=0e75b6&style=flat" alt="alucasb" /> </p>

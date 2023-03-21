@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/_alluca" target="blank"><img src="https://img.shields.io/twitter/follow/_alluca?logo=twitter&style=for-the-badge" alt="_alluca" /></a> </p>
 
-- Trabalhando atualmente em **Projetos variados em React**
-
 - Aprendendo **React, TypeScript**
 
 - Sobre que falar comigo **React, JavaScript, FrontEnd**

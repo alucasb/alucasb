@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/_alluca" target="blank"><img src="https://img.shields.io/twitter/follow/_alluca?logo=twitter&style=for-the-badge" alt="_alluca" /></a> </p>
 
-- Aprendendo **React, TypeScript**
+- Aprendendo: **React, TypeScript**
 
-- Sobre que falar comigo **React, JavaScript, FrontEnd**
+- Sobre o que falar comigo: **React, JavaScript, FrontEnd**
 
-- Onde me enontrar **aluca.contato@gmail.com**
+- Onde me enontrar: **aluca.contato@gmail.com**
 
-- Curiosidade **aficionado por tecnologia**
+- Curiosidade: **aficionado por tecnologia**
 
 <h3 align="left">Entre em Contato Comigo:</h3>
 <p align="left">

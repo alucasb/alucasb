@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! Sou André Lucas</h1>
 <h3 align="center">Formado em ciências da natureza, estudante de programação</h3>
 
-- Aprendendo: **React, JavaScript, PHP**
+- Aprendendo: **Laravel, PHP, JavaScript**
 
 - Sobre o que falar comigo: **React, JavaScript, FrontEnd**
 

@@ -3,7 +3,7 @@
 
 - Aprendendo: **Laravel, PHP, JavaScript**
 
-- Sobre o que falar comigo: **React, JavaScript, FrontEnd**
+- Sobre o que falar comigo: **Laravel, JavaScript, PHP, ou programação num geral**
 
 - Onde me enontrar: **aluca.contato@gmail.com**
 

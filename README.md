@@ -1,13 +1,11 @@
 <h1 align="center">Olá, mundo! Sou André Lucas</h1>
-<h3 align="center">Formado em ciências da natureza, estudante de programação</h3>
+<h3 align="center">Formado em ciências da natureza, estudante de programação, apaixonado por tecnologia</h3>
 
 - Aprendendo: **Laravel, PHP, JavaScript**
 
 - Sobre o que falar comigo: **Laravel, JavaScript, PHP, ou programação num geral**
 
 - Onde me enontrar: **aluca.contato@gmail.com**
-
-- Curiosidade: **aficionado por tecnologia**
 
 <h3 align="left">Entre em Contato Comigo:</h3>
 <p align="left">

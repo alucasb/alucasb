@@ -1,5 +1,5 @@
 <h1 align="center">Olá, mundo! Sou André Lucas</h1>
-<h3 align="center">Formado em ciências da natureza, estudante de programação, apaixonado por tecnologia</h3>
+<h3 align="center">Formado em ciências, estudante de programação, apaixonado por tecnologia</h3>
 
 - Foco: **Laravel, PHP, JavaScript**
 

@@ -3,7 +3,7 @@
 
 - Foco: **React, Node.Js, JavaScript**
 
-- Sobre o que falar comigo: **Laravel, JavaScript, PHP, ou programação num geral**
+- Sobre o que falar comigo: **React, JavaScript, PHP, ou programação num geral**
 
 - Onde me enontrar: **aluca.contato@gmail.com**
 

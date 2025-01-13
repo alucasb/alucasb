@@ -5,9 +5,9 @@
 
 - Sobre o que falar comigo: **React, JavaScript, PHP, ou programação num geral**
 
-- Onde me enontrar: **aluca.contato@gmail.com**
+- Entre em contato comigo: **aluca.contato@gmail.com**
 
-<h3 align="left">Entre em Contato Comigo:</h3>
+<h3 align="left">Onde me encontrar:</h3>
 <p align="left">
 <a href="https://twitter.com/_alluca" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_alluca" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alucasb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andré-lucas-barreto-26bb6322b" height="30" width="40" /></a>
